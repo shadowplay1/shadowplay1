@@ -6,6 +6,7 @@
 
 - 🔭 Working on [discord-economy-super](https://github.com/shadowplay1/discord-economy-super) and [discord-leveling-super](https://github.com/shadowplay1/discord-leveling-super)
 - 🌱 Currently learning HTML/CSS (making a fullstack website)
+- 🤔 Main languages: TypeScript/JavaScript
 - 👯 Not ready to collaborate
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love cats
