@@ -12,4 +12,4 @@
 - ⚡ Fun fact: I love cats
 - 🎮 Favourite games: Minecraft and Rocket League
 
-💬 Discord: ShadowPlay#6072
+💬 Discord: ShadowPlay#6072.
