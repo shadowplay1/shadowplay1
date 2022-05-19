@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-- 🔭 Working on [discord-economy-super](https://github.com/shadowplay1/discord-economy-super) and [discord-leveling-super](https://github.com/shadowplay1/discord-leveling-super)
+- 🔭 Working on [discord-economy-super](https://github.com/shadowplay1/discord-economy-super)
 - 🌱 Currently learning HTML/CSS (making a fullstack website)
 - 🤔 Main languages: TypeScript/JavaScript
 - 👯 Not ready to collaborate
