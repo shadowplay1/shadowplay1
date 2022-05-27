@@ -5,11 +5,10 @@
 ### Hi there 👋
 
 - 🔭 Working on [discord-economy-super](https://github.com/shadowplay1/discord-economy-super)
-- 🌱 Currently learning HTML/CSS (making a fullstack website)
+- 🌱 Currently learning React + Next.js
 - 🤔 Main languages: TypeScript/JavaScript
 - 👯 Not ready to collaborate
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love cats
-- 🎮 Favourite games: Minecraft and Rocket League
+- 🎮 Favourite games: Minecraft, Rocket League
 
 💬 Discord: ShadowPlay#6072
