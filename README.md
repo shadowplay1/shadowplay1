@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 - 🔭 Working on [discord-economy-super](https://github.com/shadowplay1/discord-economy-super)
-- 🌱 Currently learning React + Next.js
+- 🌱 Currently learning `React` + `SCSS` + `Next.js`
 - 🤔 Main languages: TypeScript/JavaScript
 - 👯 Not ready to collaborate
 - 😄 Pronouns: he/him
