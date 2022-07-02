@@ -9,6 +9,6 @@
 - 🤔 Main languages: TypeScript/JavaScript
 - 👯 Not ready to collaborate
 - 😄 Pronouns: he/him
-- 🎮 Favourite games: Minecraft, Rocket League
+- 🎮 Favourite games: Rocket League, Fall Guys
 
 💬 Discord: ShadowPlay#6072
