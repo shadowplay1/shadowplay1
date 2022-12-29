@@ -1,5 +1,5 @@
 Visitors Count:
-               ![Visitor Count](https://profile-counter.glitch.me/shadowplay1/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/shadowplay1/count.svg)
 
 ![My Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=shadowplay1&show_icons=true&include_all_commits=true&theme=dark&countPrivate=true)
 
@@ -8,7 +8,7 @@ Visitors Count:
 ### Hi there 👋
 
 - 🔭 Working on [discord-economy-super](https://github.com/shadowplay1/discord-economy-super)
-- 🌱 Currently learning `React` + `SCSS`
+- 🌱 Currently learning `React` + `Next.js`
 - 🤔 Main languages: TypeScript/JavaScript
 - 👯 Not ready to collaborate
 - 😄 Pronouns: he/him
