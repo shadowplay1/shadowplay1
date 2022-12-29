@@ -1,4 +1,5 @@
-![Visitor Count](https://profile-counter.glitch.me/shadowplay1/count.svg)
+Visitors Count:
+               ![Visitor Count](https://profile-counter.glitch.me/shadowplay1/count.svg)
 
 ![My Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=shadowplay1&show_icons=true&include_all_commits=true&theme=dark&countPrivate=true)
 
