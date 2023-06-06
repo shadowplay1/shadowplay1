@@ -7,11 +7,10 @@ Visitors Count:<br>
 
 ### Hi there 👋
 
-- 🔭 Working on [discord-economy-super](https://github.com/shadowplay1/discord-economy-super)
+- 🔭 Working on [tests-app](https://github.com/shadowplay1/tests-app)
 - 🌱 Currently learning `React` + `Next.js`
-- 🤔 Main languages: TypeScript/JavaScript
+- 🤔 Main language: TypeScript
 - 👯 Not ready to collaborate
 - 😄 Pronouns: he/him
-- 🎮 Favourite games: Fall Guys, Rocket League
 
 💬 Discord: ShadowPlay#6072
