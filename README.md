@@ -7,7 +7,7 @@ Visitors Count:<br>
 
 ### Hi there 👋
 
-- 🔭 Working on [tests-app](https://github.com/shadowplay1/tests-app)
+- 🔭 Working on various projects
 - 🌱 Currently learning `React` + `Next.js`
 - 🤔 Main language: TypeScript
 - 👯 Not ready to collaborate
