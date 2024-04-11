@@ -13,4 +13,4 @@ Visitors Count:<br>
 - 👯 Not ready to collaborate
 - 😄 Pronouns: he/him
 
-💬 Discord: ShadowPlay#6072
+💬 Discord: @shadowplay_
